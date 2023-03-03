@@ -9,5 +9,4 @@ You might find Dua Lipa in here.
 
 ## Check It
 
- - [Dua Lipa](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-
+ - [Dua Lipa](https://denaldm.github.io/startup-of-the-month/)
